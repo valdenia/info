@@ -5,8 +5,9 @@ Week running from March 18th to... April 1st.
 ## Required
 *Mandatory resources.*
 
-* tbd
-
+* [Building Up and Reasoning About Architectural Knowledge, by Philippe Kruchten, Patricia Lago, Hans van Vliet ](http://www.cs.vu.nl/~hans/publications/y2006/QoSA.pdf)
+* [Agile Software Architecture Sketches and NoUML](http://www.infoq.com/articles/agile-software-architecture-sketches-NoUML)
+* [Games	Software	Architects	Play, by Philippe Kruchten ](http://resources.sei.cmu.edu/asset_files/Presentation/2013_017_001_47712.pdf)
 
 ## Assignment
 **Deadline:** April 1st, during class
