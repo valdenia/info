@@ -34,7 +34,7 @@ Week running from March 4th to March 10th.
 ## *Extra*
 *Recommended resources for the interested students*
 
-* [Git courses on Code School](https://www.codeschool.com/learn/git) - *I am currently trying this course and enjoying it, it's free from March 4th to March 6th, so let's try it together! Suggestion: Try Git -> Git Real -> Mastering GitHub.*
+* [Git courses on Code School](https://www.codeschool.com/learn/git) - *This course was freely available during this week's weekend. Suggested order: Try Git -> Git Real -> Mastering GitHub.*
 * [How to Use Git and GitHub - Udacity](https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778924)
 * [Curso de Git para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
