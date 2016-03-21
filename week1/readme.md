@@ -33,13 +33,21 @@ Week running from March 4th to March 10th.
 
 ## *Extra*
 *Recommended resources for the interested students*
+* Learning
+  * [Git courses on Code School](https://www.codeschool.com/learn/git) - *This course was freely available during this week's weekend. Suggested order: Try Git -> Git Real -> Mastering GitHub.*
+  * [How to Use Git and GitHub - Udacity](https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778924)
+  * [Curso de Git para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+  * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+  * [A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+* References
+  * [Pro Git](https://progit.org/) book - *free, open-source book*
+  * [Git Cheatsheet](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/) - *compact one-page reference*
+* Additional stuff
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Run GitLab on a USB Stick with Docker](https://blog.sixeyed.com/run-gitlab-on-a-usb-stick-with-docker/) - *how to backup your repositories just like github but on a USB stick*
+  * [GitBook](https://www.gitbook.com/) - *service to create books from git repositories*
 
-* [Git courses on Code School](https://www.codeschool.com/learn/git) - *This course was freely available during this week's weekend. Suggested order: Try Git -> Git Real -> Mastering GitHub.*
-* [How to Use Git and GitHub - Udacity](https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-2960778924)
-* [Curso de Git para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-* [A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+
 
 
 ## *Student suggestions*
